@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "marcaAgua",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
