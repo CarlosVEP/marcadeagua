@@ -1,0 +1,7 @@
+{
+  "name": "marcaAgua",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
